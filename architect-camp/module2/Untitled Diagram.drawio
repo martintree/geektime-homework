@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T04:21:38.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="15.0.6" etag="6smnQYGMroRbNkc1Brk1" type="github"><diagram id="jBRWD2HVv8BvLUWZsqpH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-03T04:22:32.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="f5oRLQn7FHYNjPXVVY1H" version="15.0.6" type="github">
+  <diagram id="jBRWD2HVv8BvLUWZsqpH" name="Page-1">
+    <mxGraphModel dx="1186" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;朋友圈&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#FFD6C7;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;发朋友圈&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;查看朋友圈&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;评论&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;点赞&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="329.5" as="sourcePoint" />
+            <mxPoint x="280" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-7" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="516" as="sourcePoint" />
+            <mxPoint x="280" y="416" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-8" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3huNSBhZNZtRJ6iiqQSG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="169.5" as="sourcePoint" />
+            <mxPoint x="340" y="169.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-9" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3huNSBhZNZtRJ6iiqQSG-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="279.5" as="sourcePoint" />
+            <mxPoint x="340" y="279.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="389.5" as="sourcePoint" />
+            <mxPoint x="350" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="512.5" as="sourcePoint" />
+            <mxPoint x="350" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1.5万 TPS(假设1.2亿人在8小时内发朋友圈，然后在此基础上按3倍估)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;75万 QPS(假设平均50个人查看朋友圈)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;25万 TPS(假设在查看朋友圈的基础上只有三分之一的人会评论)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="380" width="410" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3huNSBhZNZtRJ6iiqQSG-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;38万 QPS(假设在查看朋友圈的基础上只有二分之一的人会点赞)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="500" width="410" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
